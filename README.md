@@ -1,5 +1,6 @@
 # leetcode_python
 
+## Hi everyone, This is Tej Davuluri, MSDS Student at University of SanFrancisco. This is a place we all can learn and study together. Come'on Let's Code!!
 Here we do leetcode sessions and update everyday.
 
 Start date- Oct 2 2023 - 
