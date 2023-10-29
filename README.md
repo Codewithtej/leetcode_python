@@ -4,7 +4,7 @@ Hi everyone, This is Tej Davuluri, MSDS Student at University of SanFrancisco. T
 ## Come'on, Let's Code!!
 Here we do leetcode sessions and update everyday.
 
-Start date- Oct 26 2023 - 
+Start date- Oct 30 2023 - 
 
 Week 1 and 2 - Arrays, hashmaps and strings ~Nov 5
 
