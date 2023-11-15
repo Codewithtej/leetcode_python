@@ -4,27 +4,29 @@ Hi everyone, This is Tej Davuluri, MSDS Student at University of SanFrancisco. T
 ## Come'on, Let's Code!!
 Here we do leetcode sessions and update everyday.
 
-Start date- Nov 05 2023 - Jan 27 2024 
+Start date- Nov 20 2023 - Jan 27 2024 
 
-Week 1 and 2 - Arrays, hashmaps and strings ~Nov 5
+Week 1 and 2 - Arrays, hashmaps and strings ~Nov 20
 
-Week 2 - Stacks ~ Nov 12
+Week 2 - Stacks ~ Nov 26
 
-Week 3 - Ques ~ Nov 19
+Week 3 - Ques ~ Dec 03 -Dec 05
 
-Week 4 - Two pointers and Sliding Window ~ Nov 26
+Exam Break - Exams Dec 06- Dec 12
 
-Exam Break - Exams Dec 3
+Week 3(Cont.) - Ques ~ Dec 13 -Dec 17
 
-Week 5 - Binary Search ~ Dec 17
+Week 4 - Two pointers and Sliding Window ~ Dec 18
 
-Week 6 - Linked lists ~ Dec 24
+Week 5 - Binary Search ~ Dec 25
 
-Week 7 - Trees ~ Dec 31
+Week 6 and 7 - Linked lists ~ Jan 01
 
-Week 8 - Graphs ~ Jan 7
+Week 7 - Trees ~ Jan 08
 
-Week 9 - Everyones Favourite - DP!! Dynamic Programming :) .., We will just do the intro of it for now ~ Jan 14
+Week 8 - Graphs ~ Jan 15
+
+Week 9 - Everyones Favourite - DP!! Dynamic Programming :) .., We will just do the intro of it for now ~ Jan 22
 
 After this we will dive more into DP, Heaps and Greedy!
 
